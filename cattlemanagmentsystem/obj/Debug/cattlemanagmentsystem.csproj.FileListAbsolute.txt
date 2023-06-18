@@ -33,3 +33,37 @@ D:\[Afzal CS]\AFZAL\Cattle-Management-System-master\cattlemanagmentsystem\obj\De
 D:\[Afzal CS]\AFZAL\Cattle-Management-System-master\cattlemanagmentsystem\obj\Debug\cattlemanagmentsystem.Properties.Resources.resources
 D:\[Afzal CS]\AFZAL\Cattle-Management-System-master\cattlemanagmentsystem\obj\Debug\cattlemanagmentsystem.csproj.GenerateResource.cache
 D:\[Afzal CS]\AFZAL\Cattle-Management-System-master\cattlemanagmentsystem\obj\Debug\cattlemanagmentsystem.csproj.CoreCompileInputs.cache
+C:\Users\Home\Source\Repos\Cattle-Management-System\cattlemanagmentsystem\bin\Debug\cattlemanagmentsystem.exe.config
+C:\Users\Home\Source\Repos\Cattle-Management-System\cattlemanagmentsystem\bin\Debug\cattlemanagmentsystem.exe
+C:\Users\Home\Source\Repos\Cattle-Management-System\cattlemanagmentsystem\bin\Debug\cattlemanagmentsystem.pdb
+C:\Users\Home\Source\Repos\Cattle-Management-System\cattlemanagmentsystem\obj\Debug\cattlemanagmentsystem.csproj.AssemblyReference.cache
+C:\Users\Home\Source\Repos\Cattle-Management-System\cattlemanagmentsystem\obj\Debug\cattlemanagmentsystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Home\Source\Repos\Cattle-Management-System\cattlemanagmentsystem\obj\Debug\cattlemanagmentsystem.Cow.resources
+C:\Users\Home\Source\Repos\Cattle-Management-System\cattlemanagmentsystem\obj\Debug\cattlemanagmentsystem.CowHealth.resources
+C:\Users\Home\Source\Repos\Cattle-Management-System\cattlemanagmentsystem\obj\Debug\cattlemanagmentsystem.Dashboard.resources
+C:\Users\Home\Source\Repos\Cattle-Management-System\cattlemanagmentsystem\obj\Debug\cattlemanagmentsystem.Form1.resources
+C:\Users\Home\Source\Repos\Cattle-Management-System\cattlemanagmentsystem\obj\Debug\cattlemanagmentsystem.Login.resources
+C:\Users\Home\Source\Repos\Cattle-Management-System\cattlemanagmentsystem\obj\Debug\cattlemanagmentsystem.Milk_Prodction.resources
+C:\Users\Home\Source\Repos\Cattle-Management-System\cattlemanagmentsystem\obj\Debug\cattlemanagmentsystem.MilkSales.resources
+C:\Users\Home\Source\Repos\Cattle-Management-System\cattlemanagmentsystem\obj\Debug\cattlemanagmentsystem.Properties.Resources.resources
+C:\Users\Home\Source\Repos\Cattle-Management-System\cattlemanagmentsystem\obj\Debug\cattlemanagmentsystem.csproj.GenerateResource.cache
+C:\Users\Home\Source\Repos\Cattle-Management-System\cattlemanagmentsystem\obj\Debug\cattlemanagmentsystem.csproj.CoreCompileInputs.cache
+C:\Users\Home\Source\Repos\Cattle-Management-System\cattlemanagmentsystem\obj\Debug\cattlemanagmentsystem.exe
+C:\Users\Home\Source\Repos\Cattle-Management-System\cattlemanagmentsystem\obj\Debug\cattlemanagmentsystem.pdb
+C:\Users\Home\source\repos\Cattle-Management-System1\cattlemanagmentsystem\bin\Debug\cattlemanagmentsystem.exe.config
+C:\Users\Home\source\repos\Cattle-Management-System1\cattlemanagmentsystem\bin\Debug\cattlemanagmentsystem.exe
+C:\Users\Home\source\repos\Cattle-Management-System1\cattlemanagmentsystem\bin\Debug\cattlemanagmentsystem.pdb
+C:\Users\Home\source\repos\Cattle-Management-System1\cattlemanagmentsystem\obj\Debug\cattlemanagmentsystem.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\Cattle-Management-System1\cattlemanagmentsystem\obj\Debug\cattlemanagmentsystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Home\source\repos\Cattle-Management-System1\cattlemanagmentsystem\obj\Debug\cattlemanagmentsystem.Cow.resources
+C:\Users\Home\source\repos\Cattle-Management-System1\cattlemanagmentsystem\obj\Debug\cattlemanagmentsystem.CowHealth.resources
+C:\Users\Home\source\repos\Cattle-Management-System1\cattlemanagmentsystem\obj\Debug\cattlemanagmentsystem.Dashboard.resources
+C:\Users\Home\source\repos\Cattle-Management-System1\cattlemanagmentsystem\obj\Debug\cattlemanagmentsystem.Form1.resources
+C:\Users\Home\source\repos\Cattle-Management-System1\cattlemanagmentsystem\obj\Debug\cattlemanagmentsystem.Login.resources
+C:\Users\Home\source\repos\Cattle-Management-System1\cattlemanagmentsystem\obj\Debug\cattlemanagmentsystem.Milk_Prodction.resources
+C:\Users\Home\source\repos\Cattle-Management-System1\cattlemanagmentsystem\obj\Debug\cattlemanagmentsystem.MilkSales.resources
+C:\Users\Home\source\repos\Cattle-Management-System1\cattlemanagmentsystem\obj\Debug\cattlemanagmentsystem.Properties.Resources.resources
+C:\Users\Home\source\repos\Cattle-Management-System1\cattlemanagmentsystem\obj\Debug\cattlemanagmentsystem.csproj.GenerateResource.cache
+C:\Users\Home\source\repos\Cattle-Management-System1\cattlemanagmentsystem\obj\Debug\cattlemanagmentsystem.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\Cattle-Management-System1\cattlemanagmentsystem\obj\Debug\cattlemanagmentsystem.exe
+C:\Users\Home\source\repos\Cattle-Management-System1\cattlemanagmentsystem\obj\Debug\cattlemanagmentsystem.pdb

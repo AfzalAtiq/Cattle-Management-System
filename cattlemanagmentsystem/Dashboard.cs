@@ -14,7 +14,7 @@ namespace cattlemanagmentsystem
 {
     public partial class Dashboard : Form
     {
-        SqlConnection Con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\DELL\Documents\cms.mdf;Integrated Security=True;Connect Timeout=30");
+        SqlConnection Con = new SqlConnection(@"Data Source = (LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\Home\Documents\cms.mdf;Integrated Security = True; Connect Timeout = 30");
 
         public Dashboard()
         {

@@ -19,7 +19,7 @@ namespace cattlemanagmentsystem
             InitializeComponent();
             populate();
         }
-        SqlConnection Con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\DELL\Documents\cms.mdf;Integrated Security=True;Connect Timeout=30");
+        SqlConnection Con = new SqlConnection(@"Data Source = (LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\Home\Documents\cms.mdf;Integrated Security = True; Connect Timeout = 30");
         private void label1_Click(object sender, EventArgs e)
         {
 
@@ -174,13 +174,13 @@ namespace cattlemanagmentsystem
         private void DOBDate_ValueChanged(object sender, EventArgs e)
         {
             age = Convert.ToInt32(( DateTime.Today.Date-DOBDate.Value.Date).Days)/365;
-            MessageBox.Show("" + age);
+            //MessageBox.Show("" + age);
         }
 
         private void DOBDate_MouseLeave(object sender, EventArgs e)
         {
             age = Convert.ToInt32((DateTime.Today.Date - DOBDate.Value.Date).Days) / 365;
-            AgeTb.Text = "" + age;
+            AgeTb.Text = Convert.ToString(age);
         }
         int key = 0;
         private void CowsDGV_CellClick(object sender, DataGridViewCellEventArgs e)
@@ -247,7 +247,7 @@ namespace cattlemanagmentsystem
                 try
                 {
                     Con.Open();
-                    string Query = "update CowTbl set CowName='" + CowNameTb.Text + "',EarTag='" + EarTagTb.Text + "',Color='" + ColorTb.Text + "',Breed='" + BreedTb.Text + "',Age=" + age + ",weigthatbirth=" + WeightTb.Text + ",Pasture='" + PastureTb.Text + "'whereCowid=" + key + ";";
+                    string Query = "update CowTbl set CowName='" + CowNameTb.Text + "',EarTg='" + EarTagTb.Text + "',Color='" + ColorTb.Text + "',Breed='" + BreedTb.Text + "',Age='" + age + "',WeigthAtBirth='" + WeightTb.Text + "',Pasture='" + PastureTb.Text + "' where CowId='" + key + "';";
 
                     SqlCommand cmd = new SqlCommand(Query, Con);
                     cmd.ExecuteNonQuery();
